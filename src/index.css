@@ -1,0 +1,19 @@
+.layout_styles {
+    min-height: 100vh;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.primaryBtn{
+    margin-right:20px;
+}
+
+.footer {
+    background-color: azure;
+    text-align: center;
+}
